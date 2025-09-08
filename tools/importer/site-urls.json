@@ -156,13 +156,15 @@
       "url": "https://meusensia.com.br/imovel/galleria/",
       "source": "CRAWL",
       "targetPath": "/imovel/galleria",
-      "id": "dbff99a20bfba9624229ff05f3acdb22fe2e863e"
+      "id": "dbff99a20bfba9624229ff05f3acdb22fe2e863e",
+      "status": "EXCLUDED"
     },
     {
       "url": "https://meusensia.com.br/imovel/horizontes/",
       "source": "CRAWL",
       "targetPath": "/imovel/horizontes",
-      "id": "4226cbaf7a060c8270d967417b3bf3d4e71ca2f5"
+      "id": "4226cbaf7a060c8270d967417b3bf3d4e71ca2f5",
+      "status": "EXCLUDED"
     },
     {
       "url": "https://meusensia.com.br/imovel/la-vie/",
@@ -180,7 +182,8 @@
       "url": "https://meusensia.com.br/imovel/parque-prado/",
       "source": "CRAWL",
       "targetPath": "/imovel/parque-prado",
-      "id": "1bd765a18d7fff72ab2f6e6deed4e26b6d959212"
+      "id": "1bd765a18d7fff72ab2f6e6deed4e26b6d959212",
+      "status": "EXCLUDED"
     },
     {
       "url": "https://meusensia.com.br/imovel/ponta-negra/",
@@ -192,7 +195,8 @@
       "url": "https://meusensia.com.br/imovel/sensia-aurora/",
       "source": "CRAWL",
       "targetPath": "/imovel/sensia-aurora",
-      "id": "171cb781bd5dee424d40a1a8c02e5ce7fcaa8e49"
+      "id": "171cb781bd5dee424d40a1a8c02e5ce7fcaa8e49",
+      "status": "EXCLUDED"
     },
     {
       "url": "https://meusensia.com.br/imovel/sensia-barra/",
@@ -216,7 +220,8 @@
       "url": "https://meusensia.com.br/imovel/sensia-horizon/",
       "source": "CRAWL",
       "targetPath": "/imovel/sensia-horizon",
-      "id": "7e99741df4ae59a09b275295991582ee0701b789"
+      "id": "7e99741df4ae59a09b275295991582ee0701b789",
+      "status": "EXCLUDED"
     },
     {
       "url": "https://meusensia.com.br/imovel/sensia-jardim/",
