@@ -37,4 +37,4 @@ export const customElements = [];
 /**
  * Custom transformers
  */
-export const customTransformers = {};
+export const customTransformers = [];
