@@ -90,7 +90,7 @@
       "url": "https://meusensia.com.br/imoveis/page/2/",
       "source": "CRAWL",
       "targetPath": "/imoveis/page/2",
-      "id": "8ee9dc3d1238e3a21cf7ae2295a4f5fee4e41152"
+      "id": "98EWM95ct8tBYWroCxXYN9vCgN7NTcR6nUsvCx1mEdLZ"
     },
     {
       "url": "https://meusensia.com.br/imoveis/page/3/",
@@ -144,13 +144,13 @@
       "url": "https://meusensia.com.br/imoveis/sp/ribeirao-preto/",
       "source": "CRAWL",
       "targetPath": "/imoveis/sp/ribeirao-preto",
-      "id": "f7aa88598ace35ba58ff3428841922e21c457c18"
+      "id": "5VVyuV5K6c2gMq1zVeQUFAmo8shPZH28MJCVzccrsZG6"
     },
     {
       "url": "https://meusensia.com.br/imovel/botanico/",
       "source": "CRAWL",
       "targetPath": "/imovel/botanico",
-      "id": "336efd4e9fe1c458b42a4beec2f2efb1e2ef16e3"
+      "id": "G3UBJBY69FpDbwyKhZ8Sf4YULLTtHBtJUvSX4GpbTGQn"
     },
     {
       "url": "https://meusensia.com.br/imovel/galleria/",
@@ -252,7 +252,7 @@
       "url": "https://meusensia.com.br/imovel/sensia-taquaral/",
       "source": "CRAWL",
       "targetPath": "/imovel/sensia-taquaral",
-      "id": "cc11183316da59cfc68d4c6585c7f5cef74a23a6"
+      "id": "55YtaEqYEUM7ASAZ9XmVdSBNy6F7r5zkdLsJFv2ZPtAx"
     },
     {
       "url": "https://meusensia.com.br/imovel/serra/",
@@ -276,13 +276,13 @@
       "url": "https://meusensia.com.br/imovel/vila-do-sol/",
       "source": "CRAWL",
       "targetPath": "/imovel/vila-do-sol",
-      "id": "b36f7617da5af2e8693d7edf6855a8c168c5f7eb"
+      "id": "3KFBge3yEg793VqVV1P6fxV7gC9CShh55zmoMcGUNu49"
     },
     {
       "url": "https://meusensia.com.br/imovel/way/",
       "source": "CRAWL",
       "targetPath": "/imovel/way",
-      "id": "644771c8196fb93e18e3ed1fee86bcc458550b55"
+      "id": "4SxDspwwkviwR3evbZHrPa3Rw13kBr51Nxv86mECyXUF0b55"
     },
     {
       "url": "https://meusensia.com.br/investidores/",
@@ -294,7 +294,7 @@
       "url": "https://meusensia.com.br/personalizacao/",
       "source": "CRAWL",
       "targetPath": "/personalizacao",
-      "id": "38d8b7aff612611988731457ad5be11d8752edc7"
+      "id": "Gr8Kcyt8UVRF1Pux7YHiK32Spm7cmnFVL6hd7LSLHqoB"
     },
     {
       "url": "https://meusensia.com.br/politica-de-privacidade/",
@@ -318,7 +318,7 @@
       "url": "https://meusensia.com.br/status_da_obra/ultimas-unidades/",
       "source": "CRAWL",
       "targetPath": "/status-da-obra/ultimas-unidades",
-      "id": "6e9eff7546bdb3aea6762f6289a1f2e9f7e4da87"
+      "id": "9MRmVsciWKDvwwTaZQCK2NvJE2SeVU8W6EGFmukHTRaB"
     }
   ],
   "crawlOptions": {
