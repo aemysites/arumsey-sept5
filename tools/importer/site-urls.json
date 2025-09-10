@@ -150,7 +150,8 @@
       "url": "https://meusensia.com.br/imovel/botanico/",
       "source": "CRAWL",
       "targetPath": "/imovel/botanico",
-      "id": "G3UBJBY69FpDbwyKhZ8Sf4YULLTtHBtJUvSX4GpbTGQn"
+      "id": "G3UBJBY69FpDbwyKhZ8Sf4YULLTtHBtJUvSX4GpbTGQn",
+      "status": "EXCLUDED"
     },
     {
       "url": "https://meusensia.com.br/imovel/galleria/",
