@@ -1,0 +1,228 @@
+{
+  "templates": [
+    {
+      "name": "Real Estate Listing Template",
+      "cluster": 1,
+      "pages": [
+        {
+          "url": "https://meusensia.com.br/imoveis/page/3/",
+          "uuid": "1ec52c4fbf08d262a37850434879571aa7253685"
+        },
+        {
+          "url": "https://meusensia.com.br/status_da_obra/em-obras/",
+          "uuid": "8ab18430311769936fb308d54af864a06ea66a88"
+        },
+        {
+          "url": "https://meusensia.com.br/status_da_obra/ultimas-unidades/",
+          "uuid": "6e9eff7546bdb3aea6762f6289a1f2e9f7e4da87"
+        }
+      ]
+    },
+    {
+      "name": "Property Showcase Template",
+      "cluster": 2,
+      "pages": [
+        {
+          "url": "https://meusensia.com.br/imoveis/mg/",
+          "uuid": "66aa4d09812cd1103f9174ff474c41d3b1b8c9b4"
+        },
+        {
+          "url": "https://meusensia.com.br/imoveis/mg/belo-horizonte/",
+          "uuid": "c4eb122b188795e5c319ca150d7e0b2ec3a8b2ec"
+        },
+        {
+          "url": "https://meusensia.com.br/imoveis/page/2/",
+          "uuid": "8ee9dc3d1238e3a21cf7ae2295a4f5fee4e41152"
+        },
+        {
+          "url": "https://meusensia.com.br/imoveis/sp/",
+          "uuid": "cdbbe609c3932ff2354120a2440ff2aefe835afd"
+        },
+        {
+          "url": "https://meusensia.com.br/imoveis/ce/fortaleza/",
+          "uuid": "f6fe7f82021a4a44d7c77ce9b7c734421af480aa"
+        },
+        {
+          "url": "https://meusensia.com.br/imoveis/sp/campinas/",
+          "uuid": "ece5d377ff81c8b2eda7ff96aeb0a040ac229983"
+        },
+        {
+          "url": "https://meusensia.com.br/imoveis/ce/",
+          "uuid": "79fe2d47fc7992de0b639fa9a4e27a394c3d74f5"
+        },
+        {
+          "url": "https://meusensia.com.br/imoveis/pr/maringa/",
+          "uuid": "18d8c89d30e8b3d22354899e7246565a3a657c83"
+        },
+        {
+          "url": "https://meusensia.com.br/imoveis/al/maceio/",
+          "uuid": "bc23c7daeb87cda934128e0a682a26b11def0bee"
+        },
+        {
+          "url": "https://meusensia.com.br/imoveis/rj/",
+          "uuid": "9e5e9b1aacd0956b9c69f68b9a4f6b7a43904b1e"
+        },
+        {
+          "url": "https://meusensia.com.br/imoveis/rj/rio-de-janeiro/",
+          "uuid": "eddf327dd19a45f35c1a9a06181502abc08afa23"
+        },
+        {
+          "url": "https://meusensia.com.br/imoveis/sp/ribeirao-preto/",
+          "uuid": "f7aa88598ace35ba58ff3428841922e21c457c18"
+        },
+        {
+          "url": "https://meusensia.com.br/imoveis/pr/curitiba/",
+          "uuid": "8c9adfad01a16b0da951b34d0543845c80f9405b"
+        },
+        {
+          "url": "https://meusensia.com.br/imoveis/al/",
+          "uuid": "a206565d5f209cd4761d80e3d515d70f30cee11b"
+        },
+        {
+          "url": "https://meusensia.com.br/imoveis/pr/",
+          "uuid": "66ab7968282bbe2c8ff48d9f5fd06766e23d7fbc"
+        },
+        {
+          "url": "https://meusensia.com.br/imoveis/am/manaus/",
+          "uuid": "4569852ccfb12e6937dd8a8fe0771d93cc53fe8f"
+        },
+        {
+          "url": "https://meusensia.com.br/imoveis/am/",
+          "uuid": "080300ac0ed42e73269beadc53d1a8e6beec4a23"
+        },
+        {
+          "url": "https://meusensia.com.br/imoveis/ba/salvador/",
+          "uuid": "ada658e792eecded7a06e6f3e58643cfa4613b8d"
+        },
+        {
+          "url": "https://meusensia.com.br/imoveis/ba/",
+          "uuid": "022b7232e59c90d768c022f97d3a0b36faabd43a"
+        }
+      ]
+    },
+    {
+      "name": "'Real Estate Landing Page'",
+      "cluster": 3,
+      "pages": [
+        {
+          "url": "https://meusensia.com.br/contato-via-whatsapp/",
+          "uuid": "9c2cd8a2e67e3ea6ead5cf21a5d5617067122644"
+        }
+      ]
+    },
+    {
+      "name": "'Business Multipurpose Template'",
+      "cluster": 4,
+      "pages": [
+        {
+          "url": "https://meusensia.com.br/imoveis/",
+          "uuid": "ab5e40f1339b8ac31166cfa3449d7dc98330d097"
+        },
+        {
+          "url": "https://meusensia.com.br/conheca-a-sensia/",
+          "uuid": "e563f5d91ac03a8a03c201d64a009584448b9736"
+        },
+        {
+          "url": "https://meusensia.com.br/personalizacao/",
+          "uuid": "38d8b7aff612611988731457ad5be11d8752edc7"
+        },
+        {
+          "url": "https://meusensia.com.br/investidores/",
+          "uuid": "3f94a53e1b1dba3cc314e9eeb6f72d6eb078fd71"
+        },
+        {
+          "url": "https://meusensia.com.br/regulamentos/",
+          "uuid": "3da5040609eed172a87617f0e81208f2e5a49694"
+        },
+        {
+          "url": "https://meusensia.com.br/politica-de-privacidade/",
+          "uuid": "9baaedd5d4bb39e5a48f464e3e1c67901f46b702"
+        }
+      ]
+    },
+    {
+      "name": "'Real Estate Showcase'",
+      "cluster": 5,
+      "pages": [
+        {
+          "url": "https://meusensia.com.br/imovel/vila-do-sol/",
+          "uuid": "b36f7617da5af2e8693d7edf6855a8c168c5f7eb"
+        },
+        {
+          "url": "https://meusensia.com.br/imovel/sensia-solarium/",
+          "uuid": "58826a210ff7a48f722a55ffec8c101805284a6c"
+        },
+        {
+          "url": "https://meusensia.com.br/imovel/sensia-fiusa-view/",
+          "uuid": "b7be63161ca9c88c2316102e5f801540a9e696d7"
+        },
+        {
+          "url": "https://meusensia.com.br/imovel/sensia-swiss-garden/",
+          "uuid": "6223d4a4001babb416edeb849eba7e0e059b5bb9"
+        },
+        {
+          "url": "https://meusensia.com.br/imovel/sensia-gran-bosque/",
+          "uuid": "6f33ed8bcf4d35cfd50d5dc0226236fbdec06547"
+        },
+        {
+          "url": "https://meusensia.com.br/imovel/urban/",
+          "uuid": "bd396750eb68d205c11534ca226fe94fe85620e0"
+        },
+        {
+          "url": "https://meusensia.com.br/imovel/sensia-jardim/",
+          "uuid": "15ea96e389006e57f6f5db045fcc41b2c1b999c3"
+        },
+        {
+          "url": "https://meusensia.com.br/imovel/serra/",
+          "uuid": "79a8a20c39a7d77bac4cde243c5dcaaa6047d43b"
+        },
+        {
+          "url": "https://meusensia.com.br/imovel/sensia-taquaral/",
+          "uuid": "cc11183316da59cfc68d4c6585c7f5cef74a23a6"
+        },
+        {
+          "url": "https://meusensia.com.br/imovel/way/",
+          "uuid": "644771c8196fb93e18e3ed1fee86bcc458550b55"
+        },
+        {
+          "url": "https://meusensia.com.br/imovel/la-vie/",
+          "uuid": "88bbe548f70c6d61bdb7c055015ab71aa7e44ff2"
+        },
+        {
+          "url": "https://meusensia.com.br/imovel/sensia-paris/",
+          "uuid": "332581fbf54af72d7a7bb91959517bed990a2390"
+        },
+        {
+          "url": "https://meusensia.com.br/imovel/sensia-patamares/",
+          "uuid": "47097570bf049360cc749e7ec11859930bb4011f"
+        },
+        {
+          "url": "https://meusensia.com.br/imovel/swiss-view/",
+          "uuid": "eca483de32dab56c58a44373d4460db7cc8bc9e0"
+        },
+        {
+          "url": "https://meusensia.com.br/imovel/sensia-barra/",
+          "uuid": "0fca230c1189e338cb970046bf07db976af0f735"
+        },
+        {
+          "url": "https://meusensia.com.br/imovel/pampulha/",
+          "uuid": "abd7bce5a1cdbc5b4a2b46cf730ed069e78f44ad"
+        },
+        {
+          "url": "https://meusensia.com.br/imovel/ponta-negra/",
+          "uuid": "9a181dec57fa7c47d247d1c62300547d961e8978"
+        }
+      ]
+    },
+    {
+      "name": "'Portfolio Showcase'",
+      "cluster": 6,
+      "pages": [
+        {
+          "url": "https://meusensia.com.br/",
+          "uuid": "bd8168655f2525f2b798f1c874e740af03c08db0"
+        }
+      ]
+    }
+  ]
+}
