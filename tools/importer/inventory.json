@@ -1558,6 +1558,13 @@
       "key": "hero18",
       "instances": [
         {
+          "url": "https://meusensia.com.br/imovel/la-vie/",
+          "urlHash": "88bbe548f70c6d61bdb7c055015ab71aa7e44ff2",
+          "uuid": "88bbe548-01-10ff6870fe0e1e8555c1dab4170caa3e62155dbd",
+          "xpath": "/html[1]/body[1]/div[1]/div[2]",
+          "section": "section-31"
+        },
+        {
           "url": "https://meusensia.com.br/imovel/sensia-jardim/",
           "urlHash": "15ea96e389006e57f6f5db045fcc41b2c1b999c3",
           "uuid": "15ea96e3-01-10ff6870fe0e1e8555c1dab4170caa3e62155dbd",
@@ -1612,13 +1619,6 @@
           "uuid": "79a8a20c-01-10ff6870fe0e1e8555c1dab4170caa3e62155dbd",
           "xpath": "/html[1]/body[1]/div[1]/div[2]",
           "section": "section-30"
-        },
-        {
-          "url": "https://meusensia.com.br/imovel/la-vie/",
-          "urlHash": "88bbe548f70c6d61bdb7c055015ab71aa7e44ff2",
-          "uuid": "88bbe548-01-10ff6870fe0e1e8555c1dab4170caa3e62155dbd",
-          "xpath": "/html[1]/body[1]/div[1]/div[2]",
-          "section": "section-31"
         },
         {
           "url": "https://meusensia.com.br/imovel/ponta-negra/",
