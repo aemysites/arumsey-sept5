@@ -644,7 +644,8 @@
           "xpath": "/html[1]/body[1]/div[1]/div[15]",
           "section": "section-12"
         }
-      ]
+      ],
+      "key": "unknown2"
     },
     {
       "name": "Hero",
@@ -1088,7 +1089,8 @@
           "xpath": "/html[1]/body[1]/div[1]/div[17]/div[1]/div[3]",
           "section": "section-12"
         }
-      ]
+      ],
+      "key": "unknown12"
     },
     {
       "name": "Carousel",
@@ -2717,7 +2719,8 @@
           "uuid": "9baaedd5-01-9bdba9f262b3b27bf0c7a22336eb99fb6fab8ce7",
           "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]"
         }
-      ]
+      ],
+      "key": "unknown40"
     },
     {
       "name": "Columns",
